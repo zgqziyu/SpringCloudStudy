@@ -2,37 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42edd76-e857-4210-8c72-6ea6b4879441" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-eureka-services-7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-eureka-services-7002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/src/main/java/com/ziyu/springcloud/MicroServiceEurekaServices7003Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-eureka-services-7003/src/test/java/com/ziyu/springcloud/MicroServiceEurekaServices7003ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-provider-8002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-8002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-provider-8002/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-8003/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-provider-8003/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-8003/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-provider-8003/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/microserviceproviderhystrix8001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/java/com.ziyu.springcloud/ProviderHystrix8001Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/java/com.ziyu.springcloud/controller/DeptController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/java/com.ziyu.springcloud/dao/DeptDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/java/com.ziyu.springcloud/services/DeptService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/java/com.ziyu.springcloud/services/impl/DeptServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-provider-hystrix-8001/src/main/resources/dept/DeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/src/main/java/com/ziyu/springcloud/MicroServiceEurekaServices7004Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-eureka-services-7004/src/test/java/com/ziyu/springcloud/MicroServiceEurekaServices7004ApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,7 +66,7 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="cmd" value="1" />
-          <entry key="java" value="122" />
+          <entry key="java" value="124" />
           <entry key="md" value="1" />
           <entry key="properties" value="10" />
           <entry key="xml" value="78" />
@@ -96,7 +76,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="122" />
+          <entry key="JAVA" value="124" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="10" />
@@ -107,17 +87,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/micro-service-provider-8003/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -230,32 +200,6 @@
               <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-provider-8003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-provider-8003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-provider-8003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-provider-8003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -274,7 +218,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559291889776" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559292030553" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -446,7 +390,7 @@
       <workItem from="1559177524477" duration="10265000" />
       <workItem from="1559188701382" duration="15976000" />
       <workItem from="1559261699236" duration="19448000" />
-      <workItem from="1559288382622" duration="3018000" />
+      <workItem from="1559288382622" duration="3264000" />
     </task>
     <task id="LOCAL-00001" summary="父工程配置文件修改">
       <created>1559282428411</created>
@@ -462,15 +406,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559286092305</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改配置">
+      <created>1559291937152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559291937152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48707000" />
+    <option name="totallyTimeSpent" value="48953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27771854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -493,9 +443,9 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.5248619" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32928178" />
       <window_info anchor="bottom" id="Tail" order="14" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.47403315" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.26077348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -524,20 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-service-consumer-80/src/main/java/com/ziyu/springcloud/ApplicationMain80.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-service-consumer-80/src/main/java/com/ziyu/springcloud/controller/DeptConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -817,6 +753,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-138">
           <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-service-consumer-80/src/main/java/com/ziyu/springcloud/controller/DeptConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-service-consumer-80/src/main/java/com/ziyu/springcloud/ApplicationMain80.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
