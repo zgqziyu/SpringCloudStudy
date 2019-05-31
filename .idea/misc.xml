@@ -7,9 +7,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-eureka-services-7001/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-eureka-services-7002/pom.xml" />
-        <option value="$PROJECT_DIR$/micro-service-eureka-services-7003/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-consumer-feign-80/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-service-eureka-services-7003/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/micro-service-eureka-services-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-service-provider-hystrix-8001/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

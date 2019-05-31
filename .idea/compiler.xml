@@ -17,5 +17,10 @@
         <module name="microserviceprovider8003" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="micro-service-eureka-services-7003" target="1.5" />
+      <module name="microserviceeurekaservices7003" target="1.5" />
+      <module name="microserviceproviderhystrix8001" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

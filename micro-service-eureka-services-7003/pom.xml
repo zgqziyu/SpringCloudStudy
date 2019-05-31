@@ -8,9 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <groupId>com.ziyu.springcloud</groupId>
-    <artifactId>micro-service-eureka-services-7002</artifactId>
+    <artifactId>micro-service-eureka-services-7003</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>micro-service-eureka-services-7002</name>
+    <name>micro-service-eureka-services-7003</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
