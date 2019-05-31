@@ -16,7 +16,7 @@
         <module>micro-service-provider-8003</module>
         <module>micro-service-eureka-services-7001</module>
         <module>micro-service-eureka-services-7002</module>
-        <module>micro-service-eureka-services-7003</module>
+        <module>micro-service-eureka-services-7004</module>
         <module>micro-service-provider-hystrix-8001</module>
     </modules>
     <packaging>pom</packaging>

@@ -9,11 +9,15 @@
         <option value="$PROJECT_DIR$/micro-service-eureka-services-7002/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-consumer-feign-80/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-eureka-services-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-service-eureka-services-7004/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-service-provider-dept-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-service-provider-hystrix-8001/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/micro-service-eureka-services-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-service-provider-dept-hystrix-8001/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-provider-hystrix-8001/pom.xml" />
       </set>
     </option>

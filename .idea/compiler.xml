@@ -9,7 +9,7 @@
         <module name="micro-service-consumer-feign-80" />
         <module name="micro-service-eureka-services-7001" />
         <module name="micro-service-eureka-services-7002" />
-        <module name="micro-service-eureka-services-7003" />
+        <module name="micro-service-eureka-services-7004" />
         <module name="microserviceapi" />
         <module name="microserviceconsumer80" />
         <module name="microserviceprovider8001" />
@@ -19,6 +19,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="micro-service-eureka-services-7003" target="1.5" />
+      <module name="micro-service-provider-dept-hystrix-8001" target="1.5" />
+      <module name="micro-service-provider-hystrix-8001" target="6" />
       <module name="microserviceeurekaservices7003" target="1.5" />
       <module name="microserviceproviderhystrix8001" target="1.5" />
     </bytecodeTargetLevel>

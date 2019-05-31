@@ -4,7 +4,8 @@
     <file url="file://$PROJECT_DIR$/micro-service-consumer-feign-80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-eureka-services-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service-eureka-services-7002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/micro-service-eureka-services-7003" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/micro-service-eureka-services-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-eureka-services-7004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-provider-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service-provider-hystrix-8001" charset="UTF-8" />
   </component>
 </project>
