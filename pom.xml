@@ -19,6 +19,7 @@
         <module>micro-service-eureka-services-7004</module>
         <module>micro-service-consumer-hystrix-80</module>
         <module>micro-service-consumer-hystrix-dashboard</module>
+        <module>micro-service-zuul-gateway</module>
     </modules>
     <packaging>pom</packaging>
 

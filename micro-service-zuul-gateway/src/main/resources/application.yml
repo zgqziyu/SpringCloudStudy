@@ -1,0 +1,29 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: ziyu-zuul-gateway
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka,http://eureka7004.com:7004/eureka
+  instance:
+    instance-id: myzuul.com
+    prefer-ip-address: true
+
+
+zuul:
+  #  ignored-services: microservicecloud-dept #忽略原路径访问
+  prefix: /ziyu
+  ignored-services: "*"
+  routes:
+    mydept.serviceId: ziyu-springcloud-dept
+    mydept.path: /mydept/**
+
+info:
+  app.name: ziyu-microcloud
+  company.name: www.ziyu.com
+  build.artifactId: ${project.artifactId}
+  build.version: ${project.version}

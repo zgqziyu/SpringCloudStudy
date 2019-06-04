@@ -17,6 +17,7 @@
         <module name="microserviceprovider8001" />
         <module name="microserviceprovider8002" />
         <module name="microserviceprovider8003" />
+        <module name="microservicezuulgateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
