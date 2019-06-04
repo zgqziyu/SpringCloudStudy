@@ -12,6 +12,8 @@
         <module name="micro-service-eureka-services-7004" />
         <module name="microserviceapi" />
         <module name="microserviceconsumer80" />
+        <module name="microserviceconsumerhystrix80" />
+        <module name="microserviceconsumerhystrixdashboard" />
         <module name="microserviceprovider8001" />
         <module name="microserviceprovider8002" />
         <module name="microserviceprovider8003" />
